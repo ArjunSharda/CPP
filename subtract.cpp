@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main() {;
+  int num1 = 15;
+  int num2 = 10;
+  cout << num1-num2;
+}
